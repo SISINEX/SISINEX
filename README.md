@@ -41,4 +41,4 @@ Estudante de Deselvolvimento de Sistemas · SENAI · São Paulo, SP
 ## Contatos
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sisino.gustavo9@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/gustavo-sisino-3a721642b/?skipRedirect=true))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-sisino-3a721642b/?skipRedirect=true)
